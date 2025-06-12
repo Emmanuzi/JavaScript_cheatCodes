@@ -178,6 +178,9 @@
   .p-24 {
     padding: calc(var(--spacing) * 24);
   }
+  .uppercase {
+    text-transform: uppercase;
+  }
   .underline {
     text-decoration-line: underline;
   }
